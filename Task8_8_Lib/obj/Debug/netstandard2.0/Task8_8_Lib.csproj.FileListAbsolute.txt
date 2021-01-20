@@ -1,0 +1,8 @@
+D:\VSU\ИТ\AllLab\Task8_8_Lib\bin\Debug\netstandard2.0\Task8_8_Lib.deps.json
+D:\VSU\ИТ\AllLab\Task8_8_Lib\bin\Debug\netstandard2.0\Task8_8_Lib.dll
+D:\VSU\ИТ\AllLab\Task8_8_Lib\bin\Debug\netstandard2.0\Task8_8_Lib.pdb
+D:\VSU\ИТ\AllLab\Task8_8_Lib\obj\Debug\netstandard2.0\Task8_8_Lib.AssemblyInfoInputs.cache
+D:\VSU\ИТ\AllLab\Task8_8_Lib\obj\Debug\netstandard2.0\Task8_8_Lib.AssemblyInfo.cs
+D:\VSU\ИТ\AllLab\Task8_8_Lib\obj\Debug\netstandard2.0\Task8_8_Lib.csproj.CoreCompileInputs.cache
+D:\VSU\ИТ\AllLab\Task8_8_Lib\obj\Debug\netstandard2.0\Task8_8_Lib.dll
+D:\VSU\ИТ\AllLab\Task8_8_Lib\obj\Debug\netstandard2.0\Task8_8_Lib.pdb
