@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "7rIYbJ2E5IkzN/ncrK8s5YpKF09vMOfPMDVF8p4j/WiwHD2AGK/jo5vAy38t5gPuO3hRNZfQEtOmxR6ud3zcLQ==",
+  "success": true,
+  "projectFilePath": "D:\\VSU\\ИТ\\AllLab\\Task6_8_Lib\\Task6_8_Lib.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\proskuryakov_e_d\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\proskuryakov_e_d\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
