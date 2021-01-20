@@ -1,0 +1,13 @@
+D:\VSU\ИТ\AllLab\Task1_8\bin\Debug\netcoreapp3.1\Task1_8.exe
+D:\VSU\ИТ\AllLab\Task1_8\bin\Debug\netcoreapp3.1\Task1_8.deps.json
+D:\VSU\ИТ\AllLab\Task1_8\bin\Debug\netcoreapp3.1\Task1_8.runtimeconfig.json
+D:\VSU\ИТ\AllLab\Task1_8\bin\Debug\netcoreapp3.1\Task1_8.runtimeconfig.dev.json
+D:\VSU\ИТ\AllLab\Task1_8\bin\Debug\netcoreapp3.1\Task1_8.dll
+D:\VSU\ИТ\AllLab\Task1_8\bin\Debug\netcoreapp3.1\Task1_8.pdb
+D:\VSU\ИТ\AllLab\Task1_8\obj\Debug\netcoreapp3.1\Task1_8.csprojAssemblyReference.cache
+D:\VSU\ИТ\AllLab\Task1_8\obj\Debug\netcoreapp3.1\Task1_8.AssemblyInfoInputs.cache
+D:\VSU\ИТ\AllLab\Task1_8\obj\Debug\netcoreapp3.1\Task1_8.AssemblyInfo.cs
+D:\VSU\ИТ\AllLab\Task1_8\obj\Debug\netcoreapp3.1\Task1_8.csproj.CoreCompileInputs.cache
+D:\VSU\ИТ\AllLab\Task1_8\obj\Debug\netcoreapp3.1\Task1_8.dll
+D:\VSU\ИТ\AllLab\Task1_8\obj\Debug\netcoreapp3.1\Task1_8.pdb
+D:\VSU\ИТ\AllLab\Task1_8\obj\Debug\netcoreapp3.1\Task1_8.genruntimeconfig.cache
