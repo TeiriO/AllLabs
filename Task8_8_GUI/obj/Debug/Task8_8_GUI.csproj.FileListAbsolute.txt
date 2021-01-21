@@ -1,0 +1,13 @@
+D:\VSU\ИТ\AllLab\Task8_8_GUI\bin\Debug\Task8_8_GUI.exe.config
+D:\VSU\ИТ\AllLab\Task8_8_GUI\bin\Debug\Task8_8_GUI.exe
+D:\VSU\ИТ\AllLab\Task8_8_GUI\bin\Debug\Task8_8_GUI.pdb
+D:\VSU\ИТ\AllLab\Task8_8_GUI\bin\Debug\Task8_8_Lib.dll
+D:\VSU\ИТ\AllLab\Task8_8_GUI\bin\Debug\Task8_8_Lib.pdb
+D:\VSU\ИТ\AllLab\Task8_8_GUI\obj\Debug\Task8_8_GUI.csprojAssemblyReference.cache
+D:\VSU\ИТ\AllLab\Task8_8_GUI\obj\Debug\Task8_8_GUI.Form1.resources
+D:\VSU\ИТ\AllLab\Task8_8_GUI\obj\Debug\Task8_8_GUI.Properties.Resources.resources
+D:\VSU\ИТ\AllLab\Task8_8_GUI\obj\Debug\Task8_8_GUI.csproj.GenerateResource.cache
+D:\VSU\ИТ\AllLab\Task8_8_GUI\obj\Debug\Task8_8_GUI.csproj.CoreCompileInputs.cache
+D:\VSU\ИТ\AllLab\Task8_8_GUI\obj\Debug\Task8_8_GUI.csproj.CopyComplete
+D:\VSU\ИТ\AllLab\Task8_8_GUI\obj\Debug\Task8_8_GUI.exe
+D:\VSU\ИТ\AllLab\Task8_8_GUI\obj\Debug\Task8_8_GUI.pdb
